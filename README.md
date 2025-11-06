@@ -1,6 +1,5 @@
 ###  OS-TBD2043 Course All Lab Tasks - GitHub Repository
-#### Author - Reeyan Afzal
-
+#### Ariq Danish bin Nor Razak (24006796)
 ___
 
 ### Tasks:
